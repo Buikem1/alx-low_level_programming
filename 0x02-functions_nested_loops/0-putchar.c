@@ -8,5 +8,5 @@
 
 int main()
 {
-	printf("_putchar")
+	printf("_putchar");
 }
