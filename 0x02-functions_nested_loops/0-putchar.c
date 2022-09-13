@@ -1,14 +1,22 @@
 #include "main.h"
 
 /**
- * main - prints _putchar, followed by a nee line
+ * main - check the code
  *
  * Return: Always 0.
  */
 
-int main(void)
+int main()
 {
-	_putchar("_putchar\n");
-	
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	_putchar("a");
+	_putchar("r");
+	_putchar("\n");
+
 	return (0);
 }
